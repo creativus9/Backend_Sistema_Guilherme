@@ -221,3 +221,5 @@ def process_xlsx_file(file_stream, delivery_date_str, ecommerce, conta_ecommerce
         traceback.print_exc()
         return []
 
+
+
